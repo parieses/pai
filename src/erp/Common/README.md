@@ -1,0 +1,1 @@
+访问示例http://www.XXXX.com/?s=Erp.Hello.World

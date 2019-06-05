@@ -1,0 +1,1 @@
+访问示例http://www.XXXX.com/?s=App.Hello.World
